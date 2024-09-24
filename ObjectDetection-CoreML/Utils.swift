@@ -1,10 +1,3 @@
-//
-//  Utils.swift
-//  ObjectDetection-CoreML
-//
-//  Created by Julius Hietala on 17.8.2022.
-//
-
 import UIKit
 import Vision
 
