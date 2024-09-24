@@ -62,6 +62,7 @@ The model was exported using the YOLOv5 official export script with FP16 quantiz
 
 ### Inference Speed
 - The model achieves real-time inference on iPhone 12 with an average speed of 30 FPS.
+![Image2](images/performance.jpg)
 
 ### Accuracy
 - The FP16 quantized model maintains high accuracy with minimal loss compared to the original FP32 model.
