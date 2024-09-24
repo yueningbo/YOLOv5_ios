@@ -83,6 +83,7 @@ The model was exported using the YOLOv5 official export script with FP16 quantiz
 
 ## Acknowledgements
 This project is based on the excellent work by the [YOLOv5](https://github.com/ultralytics/yolov5) team. Special thanks to the contributors and the open-source community.
+Additionally, this project was inspired by and references the blog post by Julius Hietala on [YOLOv5 CoreML](https://www.juliushietala.com/blog/yolov5-coreml).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
