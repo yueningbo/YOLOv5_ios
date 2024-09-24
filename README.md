@@ -1,4 +1,4 @@
-# Object Detection with PyTorch, Core ML, and Vision on iOS
+# YOLOv5s iOS Deployment with FP16 Quantization
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4254623/186172821-8fc8765b-bc86-4c31-ab44-b2e83d5d7646.PNG" align="center" height="500">
