@@ -5,11 +5,10 @@
 2. [Features](#features)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Model Quantization](#model-quantization)
-7. [Performance Evaluation](#performance-evaluation)
-8. [Acknowledgements](#acknowledgements)
-9. [License](#license)
+5. [Model Quantization](#model-quantization)
+6. [Performance Evaluation](#performance-evaluation)
+7. [Acknowledgements](#acknowledgements)
+8. [License](#license)
 
 ## Introduction
 This project demonstrates how to deploy YOLOv5s on an iOS device with FP16 quantization to achieve efficient inference while maintaining high accuracy.
