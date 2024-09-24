@@ -61,7 +61,7 @@ The model was exported using the YOLOv5 official export script with FP16 quantiz
 ## Performance Evaluation
 
 ### Inference Speed
-- The model achieves real-time inference on iPhone12mini with an average speed of 37.8 FPS.
+- The model achieves real-time inference on iPhone 12 mini with an average speed of 37.8 FPS.
 ![Image2](images/performance.jpg)
 
 ### Accuracy
