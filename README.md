@@ -1,7 +1,3 @@
-好的，基于你的步骤要求，我将重新编写 README 文件，确保涵盖所有必要的细节。
-
----
-
 # YOLOv5s iOS Deployment with FP16 Quantization
 
 ## Table of Contents
@@ -90,7 +86,3 @@ This project is based on the excellent work by the [YOLOv5](https://github.com/u
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-这个 README 文件提供了一个详细的项目概述、安装和使用步骤、模型量化和性能评估的说明，以及对原始项目和贡献者的致谢。根据你的具体项目需求，你可以进一步调整和扩展这些内容。
