@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  ObjectDetection-CoreML
-//
-//  Created by Julius Hietala on 16.8.2022.
-//
-
 import UIKit
 import AVFoundation
 import Vision
