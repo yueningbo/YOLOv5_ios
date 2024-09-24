@@ -13,6 +13,7 @@
 
 ## Introduction
 YOLOv5s is a state-of-the-art object detection model. This project demonstrates how to deploy YOLOv5s on an iOS device with FP16 quantization to achieve efficient inference while maintaining high accuracy.
+![Image1](images/inference.jpg)
 
 ## Features
 - Efficient object detection on iOS devices
