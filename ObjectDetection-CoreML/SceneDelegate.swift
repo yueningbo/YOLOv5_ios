@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ObjectDetection-CoreML
-//
-//  Created by Julius Hietala on 16.8.2022.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
