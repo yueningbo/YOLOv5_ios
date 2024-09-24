@@ -54,22 +54,6 @@ This will generate a `.mlpackage` file.
 - Drag and drop the `.mlpackage` file into your Xcode project.
 - Ensure the model is added to the target.
 
-## Usage
-
-### 1. Create an iOS App with Xcode
-1. Open Xcode and create a new iOS App project.
-2. Add the `.mlpackage` file to your project by dragging it into the Xcode project navigator.
-
-### 2. Configure the App to Use the Camera
-In your `Info.plist`, add the following keys to request camera permissions:
-```xml
-<key>NSCameraUsageDescription</key>
-<string>We need access to your camera for object detection</string>
-```
-
-### 3. Write the Application Code
-In your `ViewController.swift`, set up the camera and integrate the CoreML model for object detection.
-
 ## Model Quantization
 
 ### FP16 Quantization
