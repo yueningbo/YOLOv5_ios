@@ -3,7 +3,6 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Model Quantization](#model-quantization)
 5. [Performance Evaluation](#performance-evaluation)
