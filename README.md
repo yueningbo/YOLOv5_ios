@@ -3,12 +3,12 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Model Quantization](#model-quantization)
-6. [Performance Evaluation](#performance-evaluation)
-7. [Acknowledgements](#acknowledgements)
-8. [License](#license)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Model Quantization](#model-quantization)
+5. [Performance Evaluation](#performance-evaluation)
+6. [Acknowledgements](#acknowledgements)
+7. [License](#license)
 
 ## Introduction
 This project demonstrates how to deploy YOLOv5s on an iOS device with FP16 quantization to achieve efficient inference while maintaining high accuracy.
@@ -20,13 +20,6 @@ This project demonstrates how to deploy YOLOv5s on an iOS device with FP16 quant
 - FP16 quantization for optimized performance
 - Real-time inference capability
 - Easy-to-follow installation and usage instructions
-
-## Requirements
-- iOS device (iPhone or iPad)
-- Xcode 12.0 or later
-- Python 3.7 or later
-- CoreML tools
-- PyTorch
 
 ## Installation
 
